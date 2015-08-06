@@ -16,14 +16,14 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000a31'
-    - '#d95659'
+    - '#030303'
     - '#fefefe'
-    - '#843847'
-    - '#9a9eae'
+    - '#dfb128'
+    - '#606060'
+    - '#a5821c'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5625
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose:
   - name: follow
