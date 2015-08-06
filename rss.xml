@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[craiggross]]></title>
         <description><![CDATA[craiggross]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/craiggross/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Aug 2015 17:47:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 06 Aug 2015 17:47:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/craiggross/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b647f596-7b8e-4b4f-aea6-99881e4c9903.jpg">]]></description>
+            <link>https://thegrid.ai/craiggross/9d8c45fa-f103-441c-b6ea-16e46d146746/index.html</link>
+            <guid isPermaLink="false">9d8c45fa-f103-441c-b6ea-16e46d146746</guid>
+            <pubDate>Thu, 06 Aug 2015 17:47:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://cdn.charismanews.com/images/stories/2015/featured-news/Flickr-Hands-On-Laptop.jpg">]]></description>
-            <link>undefinedec6d7fb1-2ab8-4bf1-8205-11c5d0f01571/index.html</link>
+            <link>https://thegrid.ai/craiggross/ec6d7fb1-2ab8-4bf1-8205-11c5d0f01571/index.html</link>
             <guid isPermaLink="false">ec6d7fb1-2ab8-4bf1-8205-11c5d0f01571</guid>
             <pubDate>Thu, 06 Aug 2015 17:47:15 GMT</pubDate>
         </item>
