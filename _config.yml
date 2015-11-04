@@ -1,7 +1,7 @@
 name: craiggross
 favicon: null
-layout_spectrum: 0.39773
-typography_spectrum: 0.775
+layout_spectrum: 0.94611
+typography_spectrum: 0.46674
 cta:
   domain: null
   bucket: null
@@ -22,9 +22,9 @@ color:
     - '#0f1014'
     - '#f92a4f'
   brandStrength: 0.8125
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.1875
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose:
   - name: follow
     item: null
